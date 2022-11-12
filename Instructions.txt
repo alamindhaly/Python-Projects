@@ -1,4 +1,4 @@
-We must have to install a package in order to eun this project.
+We must have to install a package in order to run this project.
 
 The Package is : phonenumbers
 
